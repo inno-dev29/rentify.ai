@@ -1,0 +1,1 @@
+{"content": "SUCCESS", "model": "claude-3-sonnet-20240229", "usage": {"prompt_tokens": 27, "completion_tokens": 4, "total_tokens": 31}, "stop_reason": "end_turn"}

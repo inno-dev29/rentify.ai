@@ -1,0 +1,74 @@
+[
+    {
+        "property_id": 4,
+        "images": [
+            {
+                "url": "https://images.unsplash.com/photo-1518792528501-352f829886dc",
+                "caption": "Sustainable Treehouse Eco-Retreat - Exterior",
+                "is_primary": true
+            },
+            {
+                "url": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4",
+                "caption": "Sustainable Treehouse Eco-Retreat - Interior Living Area"
+            },
+            {
+                "url": "https://images.unsplash.com/photo-1533044309907-0fa3413da946",
+                "caption": "Sustainable Treehouse Eco-Retreat - Forest View"
+            }
+        ]
+    },
+    {
+        "property_id": 5,
+        "images": [
+            {
+                "url": "https://images.unsplash.com/photo-1600607687644-a21ebfe872c7",
+                "caption": "Converted Industrial Loft with Art Gallery - Main Space",
+                "is_primary": true
+            },
+            {
+                "url": "https://images.unsplash.com/photo-1600566752355-35792bedcfea",
+                "caption": "Converted Industrial Loft with Art Gallery - Gallery Wall"
+            },
+            {
+                "url": "https://images.unsplash.com/photo-1600210492493-0946911123ea",
+                "caption": "Converted Industrial Loft with Art Gallery - Bedroom"
+            }
+        ]
+    },
+    {
+        "property_id": 6,
+        "images": [
+            {
+                "url": "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+                "caption": "Ancient Stone Farmhouse with Vineyard - Exterior",
+                "is_primary": true
+            },
+            {
+                "url": "https://images.unsplash.com/photo-1600585154526-990dced4db0d",
+                "caption": "Ancient Stone Farmhouse with Vineyard - Living Area"
+            },
+            {
+                "url": "https://images.unsplash.com/photo-1604014056158-7a2e3a7adbba",
+                "caption": "Ancient Stone Farmhouse with Vineyard - Surrounding Vineyard"
+            }
+        ]
+    },
+    {
+        "property_id": 7,
+        "images": [
+            {
+                "url": "https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9",
+                "caption": "Floating Minimalist Houseboat - Exterior",
+                "is_primary": true
+            },
+            {
+                "url": "https://images.unsplash.com/photo-1510798831971-661eb04b3739",
+                "caption": "Floating Minimalist Houseboat - Interior"
+            },
+            {
+                "url": "https://images.unsplash.com/photo-1562982029-5c4b00c1a02a",
+                "caption": "Floating Minimalist Houseboat - View"
+            }
+        ]
+    }
+] 

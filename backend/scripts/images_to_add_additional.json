@@ -1,0 +1,30 @@
+[
+    {
+        "property_id": 5,
+        "images": [
+            {
+                "url": "https://images.unsplash.com/photo-1574362848149-11496d93a7c7",
+                "caption": "Converted Industrial Loft with Art Gallery - Main Space",
+                "is_primary": true
+            }
+        ]
+    },
+    {
+        "property_id": 6,
+        "images": [
+            {
+                "url": "https://images.unsplash.com/photo-1568605114967-8130f3a36994",
+                "caption": "Ancient Stone Farmhouse with Vineyard - Surrounding Vineyard"
+            }
+        ]
+    },
+    {
+        "property_id": 7,
+        "images": [
+            {
+                "url": "https://images.unsplash.com/photo-1527891751199-7225231a68dd",
+                "caption": "Floating Minimalist Houseboat - View"
+            }
+        ]
+    }
+] 
